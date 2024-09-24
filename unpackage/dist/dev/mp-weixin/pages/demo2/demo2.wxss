@@ -1,0 +1,11 @@
+
+.box{
+	width: 200px;
+	height: 200px;
+	background: orange;
+	font-size: 20px;
+}
+.active{
+	background: green;
+	color: #fff;
+}

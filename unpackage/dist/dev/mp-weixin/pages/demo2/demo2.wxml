@@ -1,0 +1,1 @@
+<view><image src="{{a}}" mode="widthFix"></image><button type="primary" loading="{{false}}" disabled="{{false}}">按钮</button></view><view class="{{['box', b && 'active']}}"> v-bind指令 </view><view class="{{['box', c]}}"></view>
